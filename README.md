@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="center.png" width="300" height="60">
+<img src="center.png" width="600" height="120">
 
-# decoratedcake
-
-software developer · creator
+#
 
 Heyo! I'm a software developer with 5+ years of experience.
 I enjoy working on random projects and experimenting with different technologies.
